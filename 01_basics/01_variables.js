@@ -9,6 +9,7 @@ accountPassword="21212121"
 accounCity="bangalore"
 
 console.log(accountId);
+console.log(accountEmail)
 
 
 /*
