@@ -9,7 +9,7 @@ accountPassword="21212121"
 accounCity="bangalore"
 
 console.log(accountId);
-console.log(accountEmail)
+
 
 /*
  prefer not to use var coz  of issue in block scope and 
